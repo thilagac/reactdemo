@@ -10,7 +10,7 @@ function Project() {
         image: Img,
         description:
           " A Ecommerce Website .Built Responable to use the all device",
-        link: "https://github.com/thilagac/31.1.24react.js",
+        link: "https://github.com/thilagac/31.1.24reactjs",
       },
       {
         image: Img2,

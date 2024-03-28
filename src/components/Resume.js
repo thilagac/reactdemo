@@ -3,7 +3,7 @@ import ResumeImg from '../Image/resume.jpg'
 
 function Resume() {
   const config={
-   link:" https://pdfobject.com/pdf/sample.pdf " }
+   link:" https://pdfobject.com/pdf/sample.pdf "}
   return (
     <section className='flex  flex-col md:flex-row bg-secondary px-3' id="resume">
     <div className='py-5 md:w-1/2 flex justify-center md:justify-end'>
